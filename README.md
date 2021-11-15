@@ -8,7 +8,7 @@ The dataset for this project contains 372450 images of alphabets of 28×2, all p
     1.Python (3.7.4 used)
     2.IDE (Jupyter used)
 
-## Required frameworks are
+## Required frameworks
 
     1.Numpy (version 1.16.5)
     2.cv2 (openCV) (version 3.4.2)
