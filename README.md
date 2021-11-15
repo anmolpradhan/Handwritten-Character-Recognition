@@ -4,11 +4,11 @@ We will recognize handwritten characters, i.e, English alphabets from A-Z. This 
 The dataset for this project contains 372450 images of alphabets of 28×2, all present in the form of a CSV file:
 
 [Handwritten character recognition dataset](https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format)
-##Project Prerequisites
+## Project Prerequisites
 1.Python (3.7.4 used)
 2.IDE (Jupyter used)
 
-##Required frameworks are
+## Required frameworks are
 
     1.Numpy (version 1.16.5)
     2.cv2 (openCV) (version 3.4.2)
