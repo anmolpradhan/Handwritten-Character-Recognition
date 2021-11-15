@@ -5,8 +5,8 @@ The dataset for this project contains 372450 images of alphabets of 28×2, all p
 
 [Handwritten character recognition dataset](https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format)
 ## Project Prerequisites
-1.Python (3.7.4 used)
-2.IDE (Jupyter used)
+    1.Python (3.7.4 used)
+    2.IDE (Jupyter used)
 
 ## Required frameworks are
 
